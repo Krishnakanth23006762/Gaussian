@@ -45,7 +45,8 @@ for i in range(n):
 ```
 
 ## Output:
-![image](https://github.com/Krishnakanth23006762/Gaussian/assets/138849446/459cdd20-2d4e-49c1-97af-c5172bfe0ca0)
+![image](https://github.com/Krishnakanth23006762/Gaussian/assets/138849446/0f3d8eae-b517-45c0-867a-8ebb01f3ee24)
+
 
 
 
